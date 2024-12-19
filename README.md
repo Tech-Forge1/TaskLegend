@@ -9,6 +9,5 @@ TaskLegend is a task manager (for human tasks) that includes gamification featur
 - [https://github.com/0NI0NC](https://github.com/0NI0NC) — AI  
 
 # Notes
-The project is currently structured as a repository rather than an organization due to the small number of members. If the team grows significantly, we may transform this repository into an organization.
 
 All names listed above were included with the explicit permission of each individual. For this reason, some entries only display the GitHub profile without the name, as those individuals did not consent to having their names disclosed.
