@@ -1,17 +1,14 @@
 # TaskAdventure
-TaskLegend is a task manager (for human tasks) that includes gamification features, such as its own in-app currency, some mini-games, and more..
+TaskLegend is a task manager (for human tasks) that includes gamification features, such as its own in-app currency, mini-games, and more.
 
-# Membros do Projeto
-Vitor Berniz Lopes ( https://github.com/Vibelon ) -- Gestão do projeto e Designe da interface
+# Project Members
 
-Renato Lois M.Silva ( https://github.com/RLois4 ) -- comunicação do Front com o Back usando Flask
+- **Vitor Berniz Lopes** ( [https://github.com/Vibelon](https://github.com/Vibelon) ) — Project management and interface design 
+- **Renato Lois M. Silva** ( [https://github.com/RLois4](https://github.com/RLois4) ) — Frontend-backend communication using Flask  
+- **Wagner Luiz** ( [https://github.com/Wagner0070](https://github.com/Wagner0070) ) — Frontend  
+- [https://github.com/0NI0NC](https://github.com/0NI0NC) — AI  
 
-Wagner Luiz ( https://github.com/Wagner0070 ) -- Front end
+# Notes
+The project is currently structured as a repository rather than an organization due to the small number of members. If the team grows significantly, we may transform this repository into an organization.
 
-https://github.com/0NI0NC -- IA
-
-
-# Observações
-o projeto, por hora, está neste formato, e não no formato de organização, pois são poucas pessoas. caso o número de pessoas aumente consideravelmente, ai poderemos transformar esse repositório em uma organização
-
-Todos os nomes colocados acima foram colocados com explicita autorização da pessoa. Por esta razão há alguns somente com o git hub da pessoa, sem o nome dela, pois estes não permitiram a divulgação do nome
+All names listed above were included with the explicit permission of each individual. For this reason, some entries only display the GitHub profile without the name, as those individuals did not consent to having their names disclosed.
