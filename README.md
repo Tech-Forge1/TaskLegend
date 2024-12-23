@@ -23,15 +23,13 @@ O projeto é um gerenciador de tarefas inteligente baseado em inteligência arti
 
 ### 1. **Chatbot Assistente:**
 
-- O sistema inclui um chatbot para auxiliar os usuários na criação, organização e acompanhamento de tarefas.
-- O chatbot utiliza IA para entender comandos e oferecer sugestões personalizadas.
+- O sistema inclui um chatbot para auxiliar os usuários na criação, organização e acompanhamento de tarefas, além de ser uma fonte de conhecimento etc.
 
 ### 2. **Recomendação de Prioridade:**
 
 - Uma IA especializada avalia as tarefas criadas e atribui uma prioridade de 0 a 10 com base em diversos fatores, como:
   - Prazo de conclusão.
   - Importância relativa.
-  - Impacto no progresso do usuário.
 
 ### 3. **Gamificação e Minijogos:**
 
@@ -48,11 +46,34 @@ O projeto é um gerenciador de tarefas inteligente baseado em inteligência arti
 - Concluir tarefas aumenta o nível do usuário.
 - Cada nível alcançado desbloqueia melhorias, como:
   - Aumento no limite de moedas atribuídas por tarefa.
-  - Novas funcionalidades ou acessos exclusivos.
+  - Acesso a diferentes temas no site (como o de nuvens)
 
 ### 6. **Decaimento de Recompensas:**
 
-- A recompensa de uma tarefa é dividida pelo número de segundos estimados para concluí-la.
+- A recompensa de uma tarefa é dividida pelo número de segundos para concluí-la.
 - A cada segundo que passa, a recompensa diminui progressivamente até chegar a 0.
 - Se a tarefa não for concluída dentro do prazo, começam a ser descontadas moedas do saldo do usuário como penalidade, incentivando a conclusão rápida.
+
+### 7. **Ranking de Usuários:**
+
+- O sistema inclui um ranking global que exibe os usuários com mais moedas acumuladas e maiores níveis.
+- O ranking é atualizado diariamente, com a possibilidade de visualizar as posições de amigos ou de um grupo específico de usuários.
+- **Critérios de Classificação:**
+  - Moedas acumuladas.
+  - Nível alcançado.
+  - Tarefas concluídas dentro do prazo.
+  - Desempenho nos minijogos.
+  
+- Os jogadores com as melhores posições no ranking podem receber prêmios adicionais, como moedas extras, novos minijogos exclusivos ou funcionalidades especiais.
+- O ranking serve como uma motivação extra para os usuários, incentivando a competição saudável e a progressão dentro do sistema.
+
+### 8. **Desafios de Grupo:**
+
+- O sistema permite criar desafios de grupo, onde um conjunto de usuários pode colaborar para completar tarefas em conjunto.
+- Os resultados do grupo também entram na competição pelo ranking, com pontos adicionais sendo concedidos ao grupo com melhor desempenho.
+- **Benefícios dos Desafios de Grupo:**
+  - Recompensas em grupo que são distribuídas entre os participantes.
+  - Aumento de moedas para o grupo vencedor.
+  - Ranking específico para grupos, além do ranking individual.
+
 
