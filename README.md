@@ -15,7 +15,7 @@ All names listed above were included with the explicit permission of each indivi
 
 # Gerenciador de Tarefas Inteligente com Gamificação
 
-# Visão Geral
+### Visão Geral
 
 O projeto é um gerenciador de tarefas inteligente baseado em inteligência artificial (IA) que combina ferramentas de produtividade com elementos de gamificação para tornar o gerenciamento de tarefas mais envolvente e eficiente.
 
