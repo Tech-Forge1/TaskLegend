@@ -7,7 +7,6 @@ TaskLegend is a task manager (for human tasks) that includes gamification featur
 - **Renato Lois M. Silva** ( https://github.com/RLois4 ) — Frontend-backend communication using Flask
 - **Wagner Luiz** ( https://github.com/Wagner0070 ) — Frontend
 - **Omar Augusto Rodrigues** ( https://github.com/omariscode/omariscode ) — Login System
-- **Nícolas "N_loco"** ( https://github.com/n-loco ) — MineGames
 
 # Notes
 
