@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #6f5df1, #a57af1);
+}
+
+.container {
+    display: flex;
+    max-width: 1000px;
+    width: 100%;
+    height: 600px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.left-side {
+    background: linear-gradient(135deg, #6f5df1, #a57af1);
+    flex: 1;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-side h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.left-side p {
+    font-size: 1.2rem;
+}
+
+.right-side {
+    flex: 1;
+    background: white;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.right-side h2 {
+    font-size: 2rem;
+    color: #6f5df1;
+}
+
+.right-side h3 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    font-size: 1rem;
+    color: #333;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.input-group input:focus {
+    border-color: #6f5df1;
+    outline: none;
+}
+
+.options {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.options label {
+    font-size: 0.9rem;
+}
+
+.options a {
+    font-size: 0.9rem;
+    color: #6f5df1;
+    text-decoration: none;
+}
+
+button {
+    padding: 12px;
+    background-color: #6f5df1;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: #5b4ad1;
+}
+
+.create-account {
+    text-align: center;
+    color: #6f5df1;
+    font-size: 0.9rem;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+/* Smartphones */
+@media screen and(min-width: 480px) {
+
+}
+
+/* Tablets */
+@media screen and(max-width: 900px)
